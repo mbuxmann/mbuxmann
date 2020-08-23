@@ -3,7 +3,7 @@ I am a part-time student, studying BSc Applied Mathematics and Computer Science,
 
 ### About Me:
 
-- 🔭 I’m currently working on moving into software development
+- 🔭 I’m currently moving into software development
 - 🌱 I’m currently learning data structures and algorithms
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything, would love to help!
