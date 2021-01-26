@@ -1,5 +1,5 @@
 ## Hi there! I'm Martin Buxmann 👋
-I am a part-time student, studying BSc Applied Mathematics and Computer Science, with the aim of working in the industry and gaining valuable work experience. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Web Development and working on my Data Structures and Algorithms.
+I am a part-time student, studying BSc Applied Mathematics and Computer Science, with the aim of working in the industry and gaining valuable work experience. I am a passionate learner who is always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Web Development and working on my Data Structures and Algorithms.
 
 ### About Me:
 
