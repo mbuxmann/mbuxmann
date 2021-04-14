@@ -7,7 +7,7 @@ I am a part-time student, studying BSc Applied Mathematics and Computer Science,
 - 🌱 I’m currently learning data structures and algorithms
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything, would love to help!
-- 📫 How to reach me: [Portfolio](https://bitvivaz.com) | [LinkedIn](https://linkedin.com/in/mbuxmann) | [mbuxmann@outlook.com](mailto://mbuxmann@outlook.com)
+- 📫 How to reach me: [Portfolio](https://mbuxmann.dev) | [LinkedIn](https://linkedin.com/in/mbuxmann) | [mbuxmann@outlook.com](mailto://mbuxmann@outlook.com)
 
 ### Tech Stack: 
 <img alt="Python" src="https://img.icons8.com/color/30/000000/python.png"/> <img alt="JavaScript" src="https://img.icons8.com/color/30/000000/javascript.png"/> <img alt="HTML5" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" > <img alt="CSS3" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img alt="Java" src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/> <img alt="c++" src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/> <img alt="c#" src="https://img.icons8.com/color/30/000000/c-sharp-logo.png"/>
