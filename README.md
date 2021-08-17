@@ -18,5 +18,5 @@ I am a part-time student at UNISA, studying BSc Applied Mathematics and Computer
 <img alt="Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 ### Reach Me:
-<img alt="personal-website" src="https://img.shields.io/badge/Portfolio-E95420?style=for-the-badge&logoColor=white"/> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <img alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+[<img alt="personal-website" src="https://img.shields.io/badge/Portfolio-E95420?style=for-the-badge&logoColor=white"/>](https://buxmann.dev) <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <img alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 
