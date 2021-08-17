@@ -7,7 +7,6 @@ I am a part-time student at UNISA, studying BSc Applied Mathematics and Computer
 - 🌱 I’m currently learning data structures and algorithms
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything, would love to help!
-- 📫 How to reach me: [Portfolio](https://buxmann.dev) | [LinkedIn](https://linkedin.com/in/mbuxmann) | [mbuxmann@outlook.com](mailto://mbuxmann@outlook.com)
 
 ### Tech Stack: 
 
@@ -18,5 +17,5 @@ I am a part-time student at UNISA, studying BSc Applied Mathematics and Computer
 <img alt="Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 ### Reach Me:
-[<img alt="personal-website" src="https://img.shields.io/badge/Portfolio-E95420?style=for-the-badge&logoColor=white"/>](https://buxmann.dev) <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <img alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+[<img alt="personal-website" src="https://img.shields.io/badge/Website-E95420?style=for-the-badge&logoColor=white"/>](https://buxmann.dev) [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/mbuxmann) [<img alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](mailto://mbuxmann@outlook.com)
 
