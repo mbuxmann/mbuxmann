@@ -11,11 +11,8 @@ I am a part-time student at UNISA, studying BSc Applied Mathematics and Computer
 
 ### Tech Stack: 
 
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img alt="JavaScript" src="https://shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img alt="JavaScript" src="https://shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img alt="c++" src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/>  <img alt="Java" src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/> 
 
-<img alt="CSS3" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
-<img alt="Java" src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/> 
-<img alt="c++" src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/> 
 <img alt="c#" src="https://img.icons8.com/color/30/000000/c-sharp-logo.png"/>
 
 <img height="30px" alt="React Native / React" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/> <img height="30px" alt="Godot Game Engine" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"/>  <img alt="Flask" height="30px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"/> <img height="30px" alt="django" src="https://www.justinszczurowski.com/images/skills/django.png"/> <img alt="Node.js" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/> 
