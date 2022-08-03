@@ -1,9 +1,9 @@
 ## Hi there! I'm Martin Buxmann 👋
-I am a part-time student at UNISA, studying BSc Applied Mathematics and Computer Science while working in the industry to gain valuable work experience. I am a passionate learner who is always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently building a react native mobile application that will hopefully help small businesses around the world.
+I am a passionate learner who is always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. 
 
 ### About Me:
 
-- 🔭 I’m currently looking into mobile app development
+- 🔭 I’m currently looking into web3!
 - 🌱 I’m currently learning data structures and algorithms
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything, would love to help!
