@@ -10,7 +10,7 @@ Hi, I’m a **Full Stack Engineer** passionate about building scalable, high-per
 
 ## 💡 Some Projects I've Worked On  
 - **[Kazm](https://join.kazm.com/)** – Blockchain-powered community engagement.  
-- **[Pensive](https://www.pensiveapp.com/)** – AI-enhanced journaling & analytics.  
+- **[Pensive](https://www.pensiveapp.com/)** – Evidence-Based AI Coach.
 - **[Soberly](https://getsoberly.com/)** – Sobriety tracking & support app.  
 - **[QuickReeds](https://quickreeds.com/)** – AI-powered newsletter inbox (WIP).  
 
