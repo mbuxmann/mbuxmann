@@ -4,7 +4,7 @@ Hi, I’m a **Full Stack Engineer** passionate about building scalable, high-per
 
 ## 🔹 What I Do  
 - **AI & Automation** – Integrating AI-powered features to enhance workflows.  
-- **Web3 & Blockchain** – Experience with Ethereum, Solana, Aptos, and Polygon.  
+- **Web3 & Blockchain** – Experience with Ethereum, Solana, Aptos, and Polygon integration. 
 - **Performance Optimization** – Improving efficiency, cutting update times, and reducing complexity.  
 - **Product Development** – Building and shipping **MVPs** with modern tech stacks.  
 
